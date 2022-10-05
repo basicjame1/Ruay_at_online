@@ -1,0 +1,24 @@
+{
+  "name": "ruay_at_online",
+  "version": "1.0.0",
+  "description": "Ruay เว็บหวยออนไลน์ สมัครเว็บรวย เล่นหวยออนไลน์",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basicjame1/Ruay_at_online.git"
+  },
+  "keywords": [
+    "Ruay",
+    "เว็บรวย",
+    "รวย"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basicjame1/Ruay_at_online/issues"
+  },
+  "homepage": "https://github.com/basicjame1/Ruay_at_online#readme"
+}
