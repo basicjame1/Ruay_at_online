@@ -1,6 +1,6 @@
 {
   "name": "ruay_at_online",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ruay เว็บหวยออนไลน์ สมัครเว็บรวย เล่นหวยออนไลน์",
   "main": "index.js",
   "scripts": {
